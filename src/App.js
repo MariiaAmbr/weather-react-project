@@ -11,6 +11,10 @@ export default function App() {
           This project was coded by Mariia and is{" "}
           <a href="https://github.com/MariiaAmbr/weather-react-project">
             open-soursed on GitHub
+          </a>{" "}
+          and{" "}
+          <a href="https://delicate-medovik-fa5a7a.netlify.app/">
+            hosted on Netlify
           </a>
         </footer>
       </div>
