@@ -9,11 +9,19 @@ export default function App() {
         <Weather defaultCity="Kyiv" />
         <footer>
           This project was coded by Mariia and is{" "}
-          <a href="https://github.com/MariiaAmbr/weather-react-project">
+          <a
+            href="https://github.com/MariiaAmbr/weather-react-project"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             open-soursed on GitHub
           </a>{" "}
           and{" "}
-          <a href="https://delicate-medovik-fa5a7a.netlify.app/">
+          <a
+            href="https://delicate-medovik-fa5a7a.netlify.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             hosted on Netlify
           </a>
         </footer>
