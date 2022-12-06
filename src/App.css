@@ -1,9 +1,20 @@
 .App {
+  font-family: arial, sans-serif;
   max-width: 600px;
   margin: 30px auto;
+  background: linear-gradient(
+    180.3deg,
+    rgb(221, 221, 221) 5.5%,
+    rgb(110, 136, 161) 90.2%
+  );
 }
 
 .App footer {
   font-size: 11px;
   margin: 10px 0;
+}
+
+a {
+  color: #2b4353;
+  font-weight: bold;
 }
